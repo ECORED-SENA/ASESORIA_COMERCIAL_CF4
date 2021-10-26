@@ -36,38 +36,40 @@
 
     p.mb-4 Aunque muchos de los conceptos relacionados con el servicio al cliente son perceptuales y pueden ser adaptados de acuerdo con cada cliente, siempre encontraremos características comunes, entre ellas:
 
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
-      h5 Tabla 2
-      span Características del servicio
-    
-    .tabla-a.color-acento-contenido.mb-5 
-      table
-        thead
-          tr
-            th Característica
-            th Descripción
-        tbody
-          tr
-            th Disponible
-            td Que se encuentre al alcance cuando el cliente lo necesite.
-          tr
-            th Accesible
-            td Hace referencia al grado de contacto con el proveedor en el período de disponibilidad.
-          tr
-            th Cortes
-            td Es el comportamiento cortés y profesional del proveedor en la prestación del servicio.
-          tr
-            th Ágil
-            td Rapidez y eficiencia en la prestación del servicio.
-          tr
-            th Competente
-            td Es la habilidad demostrada al prestar un servicio.
-          tr
-            th Confiable
-            td Se genera confianza cuando hay habilidad para prestar el servicio de forma precisa.
-          tr
-            th Con buena comunicación
-            td Es la fluidez y claridad en el intercambio de información entre el prestador de servicio y el cliente
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
+          h5 #[i Tabla 2]
+          span Características del servicio
+        
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            thead
+              tr
+                th Característica
+                th Descripción
+            tbody
+              tr
+                th Disponible
+                td Que se encuentre al alcance cuando el cliente lo necesite.
+              tr
+                th Accesible
+                td Hace referencia al grado de contacto con el proveedor en el período de disponibilidad.
+              tr
+                th Cortes
+                td Es el comportamiento cortés y profesional del proveedor en la prestación del servicio.
+              tr
+                th Ágil
+                td Rapidez y eficiencia en la prestación del servicio.
+              tr
+                th Competente
+                td Es la habilidad demostrada al prestar un servicio.
+              tr
+                th Confiable
+                td Se genera confianza cuando hay habilidad para prestar el servicio de forma precisa.
+              tr
+                th Con buena comunicación
+                td Es la fluidez y claridad en el intercambio de información entre el prestador de servicio y el cliente
 
     Separador
     #t_4_3.titulo-segundo(data-aos="fade-right")
@@ -79,10 +81,10 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
           h5 Figura 10
-          span Tipos de Servicio al cliente
+          span #[i Tipos de Servicio al cliente]
         figure.mb-4(data-aos="flip-up")
           img(src='@/assets/curso/tema4/img02.svg')
-
+    separador
 </template>
 
 <script>

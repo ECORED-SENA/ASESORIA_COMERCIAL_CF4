@@ -9,7 +9,7 @@
       h1 Negociación
     
     .row.justify-content-center.mb-4
-      .col-lg-10.mb-4
+      .col-lg-10
         .bloque-texto-g.color-primario.p-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img01.png')})`}"
@@ -25,7 +25,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-6
-        img(src='@/assets/curso/tema5/img02.png')
+        img(src='@/assets/curso/tema5/img02.png')(data-aos="fade-right")
       .col-lg-6
         ul.lista-ul--color
           li 
@@ -52,7 +52,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 11
-      span Etapas de la negociación
+      span #[i Etapas de la negociación]
     
     .row.align-items-center.mb-4
       .col-lg-3
@@ -68,76 +68,78 @@
     #t_5_3.titulo-segundo(data-aos="fade-right")
       .h3 5.3 Tipos de negociación
     
-    p.mb-4 Se evidencian dos tipos de negociación, la negociación cooperativa y la negociación competitiva. En el siguiente cuadro comparativo se presentan los tipos de negociación y algunos ítems importantes:
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        p.mb-4 Se evidencian dos tipos de negociación, la negociación cooperativa y la negociación competitiva. En el siguiente cuadro comparativo se presentan los tipos de negociación y algunos ítems importantes:
 
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
-      h5 Tabla 3
-      span Tipos de negociación
-    
-    .tabla-a.color-acento-contenido.mb-5 
-      table
-        thead
-          tr
-            th Criterio
-            th Negociación Cooperativa
-            th Negociación Competitiva
-            th Método Harvard
-        tbody
-          tr
-            td Participantes
-            td Amigos
-            td Adversarios
-            td Solucionador
-          tr
-            td Meta
-            td Generar un acuerdo
-            td Que haya un ganador
-            td Buen acuerdo entre las partes
-          tr
-            td Relación
-            td Se cultiva una relación de largo plazo
-            td Hay un relacionamiento con condición
-            td Se cultiva una relación de largo plazo
-          tr
-            td Concesiones
-            td Se hace una concesión
-            td Se demanda una concesión
-            td Según los términos se hace o se demanda
-          tr
-            td Con el problema
-            td Usualmente el problema no es grave
-            td Se presenta principalmente con problemas graves
-            td Se presenta principalmente con problemas graves
-          tr
-            td Con la gente
-            td Buen trato y cordialidad
-            td Buen trato
-            td Buen trato y cordialidad
-          tr
-            td Con los otros
-            td Relación de confianza
-            td Relación de “desconfianza”
-            td Neutral
-          tr
-            td Posición
-            td Flexibilidad
-            td Rígidos y estrictos
-            td Según el interés
-          tr
-            td Avance
-            td Se hacen ofertas
-            td Se condiciona la oferta
-            td Se exploran intereses
-          tr
-            td Límites
-            td Se definen los límites
-            td Se esconden
-            td Se evita tenerlos
-          tr
-            td Unilateralidad
-            td Se aceptan pérdidas (si las hay)
-            td Se demandan las ganancias
-            td La ganancia es mutua.
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
+          h5 Tabla 3
+          span #[i Tipos de negociación]
+        
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            thead
+              tr
+                th Criterio
+                th Negociación Cooperativa
+                th Negociación Competitiva
+                th Método Harvard
+            tbody
+              tr
+                td Participantes
+                td Amigos
+                td Adversarios
+                td Solucionador
+              tr
+                td Meta
+                td Generar un acuerdo
+                td Que haya un ganador
+                td Buen acuerdo entre las partes
+              tr
+                td Relación
+                td Se cultiva una relación de largo plazo
+                td Hay un relacionamiento con condición
+                td Se cultiva una relación de largo plazo
+              tr
+                td Concesiones
+                td Se hace una concesión
+                td Se demanda una concesión
+                td Según los términos se hace o se demanda
+              tr
+                td Con el problema
+                td Usualmente el problema no es grave
+                td Se presenta principalmente con problemas graves
+                td Se presenta principalmente con problemas graves
+              tr
+                td Con la gente
+                td Buen trato y cordialidad
+                td Buen trato
+                td Buen trato y cordialidad
+              tr
+                td Con los otros
+                td Relación de confianza
+                td Relación de “desconfianza”
+                td Neutral
+              tr
+                td Posición
+                td Flexibilidad
+                td Rígidos y estrictos
+                td Según el interés
+              tr
+                td Avance
+                td Se hacen ofertas
+                td Se condiciona la oferta
+                td Se exploran intereses
+              tr
+                td Límites
+                td Se definen los límites
+                td Se esconden
+                td Se evita tenerlos
+              tr
+                td Unilateralidad
+                td Se aceptan pérdidas (si las hay)
+                td Se demandan las ganancias
+                td La ganancia es mutua.
 
     Separador
     #t_5_4.titulo-segundo(data-aos="fade-right")
@@ -151,7 +153,7 @@
           p Una de las estrategias más importantes para las empresas es la que se denomina “negociación comercial”, la cual requiere de profesionales calificados y capacitados en negociación para aportar beneficios a la empresa para coadyuvar en el alcance de los objetivos organizacionales.
       .col-lg-5
         img(src='@/assets/curso/tema5/img07.svg')(data-aos="fade-left")    
-
+    separador
 </template>
 
 <script>

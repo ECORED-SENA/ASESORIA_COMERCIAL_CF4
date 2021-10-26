@@ -15,11 +15,11 @@
             .col-lg-4.mb-4.mb-lg-0
               img(src='@/assets/curso/tema2/img01.svg')(data-aos="fade-right")
             .col-lg-8
-              .bloque-texto-a__texto.p-5
+              .bloque-texto-a__texto.p-5(data-aos="fade-left")
                 p No solo incluye los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros; pues esta definición incluye aquello que no es tangible pero que lo disfrutamos, como eventos, ingreso a lugares, ideas o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior; así un carro Toyota, una moto Pulsar y un café de Juan Valdez son productos, también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
       .col-lg-10.mb-4
         .cajon.color-acento-contenido.p-4(data-aos="fade-right")
-          p La #[i American Marketing Asociation (A.M.A.)] define producto (en inglés: #[i product]) y menciona lo siguiente: "Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales".
+          p La #[i American Marketing Asociation] (A.M.A.) define producto (en inglés: #[i product]) y menciona lo siguiente: "Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales".
       .col-lg-10.mb-4
         p En el mundo de la mercadotecnia, también encontramos otras definiciones de productos:
       .col-lg-5.mb-4(data-aos="fade-right")
@@ -86,7 +86,7 @@
     
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 1
-      span Atributos del producto 
+      span #[i Atributos del producto ]
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema2/img06.svg')
   
@@ -94,7 +94,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-primario.mb-4
           .row.justify-content-center.tarjeta.color-blue-light.p-4(numero="1" titulo="Imagen del producto")
             p.mb-4 Percepción del producto que se crea en la mente del consumidor según la información recibida del producto.
             .col-md-4.mb-0
@@ -108,14 +108,14 @@
             .col-md-4.mb-0
               img(src='@/assets/curso/tema2/img09.svg')
 
-    p.mb-4 Por su parte, en el ciclo de vida del producto, una de las fases se denomina “desarrollo del producto”, aquí es importante que se definan los beneficios que se ofrecerán por parte de la empresa que estén asociados al producto, algunos de ellos son el diseño, composición, estilo, calidad, marca, etc.
+        p.mb-4 Por su parte, en el ciclo de vida del producto, una de las fases se denomina “desarrollo del producto”, aquí es importante que se definan los beneficios que se ofrecerán por parte de la empresa que estén asociados al producto, algunos de ellos son el diseño, composición, estilo, calidad, marca, etc.
 
     .row.justify-content-center.mb-4
       .col-lg-7.mb-4
         .bloque-texto-c.color-primario.p-4.mb-4(data-aos="fade-right")
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-4 La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia
+            h2.mb-4 La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia 
             p (Kotler, 2007).
             i.fas.fa-quote-right
         p.mb-4 Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
@@ -150,13 +150,13 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 2
-      span Productos de consumo
+      span #[i Productos de consumo]
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema2/img13.svg')
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 3
-      span Productos industriales
+      span #[i Productos industriales]
     .row.justify-content-center.mb-4
       .col-lg-10 
         figure.mb-4(data-aos="flip-up")
@@ -202,7 +202,7 @@
       .col-lg-5.mb-0
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
           h5 Figura 4
-          span Empaques en estantería como factor de comercialización y venta del producto
+          span #[i Empaques en estantería como factor de comercialización y venta del producto]
         img(src='@/assets/curso/tema2/img17.png')(data-aos="fade-left")
     
     .row.justify-content-center.mb-4
@@ -216,7 +216,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 5
-      span Etiqueta
+      span #[i Etiqueta]
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema2/img18.svg')     
 
@@ -229,7 +229,7 @@
         p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de snacks, botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
           h5 Figura 6
-          span El envase contiene el producto y lo protege de los agentes externos
+          span #[i El envase contiene el producto y lo protege de los agentes externos]
       .col-lg-4.mb-0
         img(src='@/assets/curso/tema2/img19.png')(data-aos="fade-right")
       .col-lg-4.mb-4
@@ -281,7 +281,8 @@
           )
           .bloque-texto-g__texto.p-5(data-aos="fade-left")
             p Un portafolio de productos, también denominado mezcla de productos, consta de todas las líneas de productos que un vendedor específico ofrece a un cliente o un conjunto de clientes. Un Portafolio de productos bien estructurado, le ayuda a la empresa a trazar su estrategia comercial.    
-      
+
+    separador  
     #t_2_10.titulo-segundo(data-aos="fade-right")
       .h3 2.10 Ciclo de vida
     
@@ -292,41 +293,46 @@
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA
         .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0
+          .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.
             p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[i Harvard Bussines Review]. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
         .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0
+          .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.
             p.mb-4 La etapa de desarrollo del producto, es una etapa previa a la introducción, incluye las fases como la investigación de mercados, el diseño de producto, prototipado, test de usuario, entre otras actividades que identifican la viabilidad del producto. En esta etapa no se generan ingresos o utilidades.
-          .col-md-8.mb-0 
-            img(src='@/assets/curso/tema2/img23.png') 
+            .row.justify-content-center
+              .col-md-8.mb-0 
+                img(src='@/assets/curso/tema2/img23.png') 
         .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0
+          .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.
             p.mb-4 #[i Aspectos clave en la etapa de introducción]
             p.mb-4 Algunos comportamientos importantes en cada etapa subsiguiente, son:
-          .col-md-8.mb-0
-            img(src='@/assets/curso/tema2/img24.png')
+            .row.justify-content-center
+              .col-md-8.mb-0
+                img(src='@/assets/curso/tema2/img24.png')
         .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0
+          .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.
             p.mb-4 #[i Aspectos clave en la etapa de crecimiento.] 
-          .col-md-8.mb-0
-            img(src='@/assets/curso/tema2/img25.png')
+            .row.justify-content-center
+              .col-md-8.mb-0
+                img(src='@/assets/curso/tema2/img25.png')
         .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0
+          .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.
             p.mb-4 #[i Aspectos clave en la etapa de madurez.]
-          .col-md-8.mb-0
-            img(src='@/assets/curso/tema2/img26.png')
+            .row.justify-content-center
+              .col-md-8.mb-0
+                img(src='@/assets/curso/tema2/img26.png')
         .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0
+          .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.
             p.mb-4 #[i Aspectos clave en la etapa de declive o decadencia.]
-          .col-md-8.mb-0
-            img(src='@/assets/curso/tema2/img27.png')
-
+            .row.justify-content-center
+              .col-md-8.mb-0
+                img(src='@/assets/curso/tema2/img27.png')
+    separador
 </template>
 
 <script>

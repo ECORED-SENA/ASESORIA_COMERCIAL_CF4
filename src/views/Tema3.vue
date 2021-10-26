@@ -45,7 +45,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 7
-      span Dimensiones del surtido 
+      span #[i Dimensiones del surtido]
 
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema3/img02.svg')
@@ -68,7 +68,7 @@
     
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 8
-      span Clasificación del surtido 
+      span #[i Clasificación del surtido]
 
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema3/img03.svg')
@@ -106,7 +106,7 @@
     #t_3_5.titulo-segundo(data-aos="fade-right")
       .h3 3.5 Cualidades del surtido
     
-    .row.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-10
         .bloque-texto-c.color-primario.p-4.mb-4(data-aos="fade-right")
           p Según Diez de Castro (2006):
@@ -117,7 +117,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Tabla 1
-      span Cualidades del surtido
+      span #[i Cualidades del surtido]
     
     .tabla-a.color-acento-contenido.mb-5 
       table
@@ -139,13 +139,13 @@
       .h3 3.6 El lineal
     
     
-    .row.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-10
         p.mb-4 El lineal es la medida horizontal del espacio donde se exponen o se organizan los productos para su venta aplicando el método de autoservicio. En el lineal, hacen parte las góndolas, expositores, mostradores, vitrinas, enfriadores y congeladores para presentar el producto a los clientes. 
 
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
           h5 Figura 9
-          span El lineal
+          span #[i El lineal]
         figure.mb-4(data-aos="flip-up")
           img(src='@/assets/curso/tema3/img05.png')
         p Existen dos tipos de lineal: a ras del suelo (al alcance del consumidor) y desarrollado (que incluye diferentes alturas de estanterías)

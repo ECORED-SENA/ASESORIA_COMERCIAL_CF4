@@ -64,21 +64,21 @@
       
     .row.justify-content-center.mb-4
       .col-lg-10
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img05.svg')
-          .tarjeta.color-yellow-light.p-3(x="13%" y="18%")
+          .tarjeta.color-yellow-light.p-3(x="13%" y="19%")
             p Son aquellos que por su material o técnica lo hacen apto para determinadas funciones y usos.
-          .tarjeta.color-yellow-light.p-3(x="71%" y="51%")
+          .tarjeta.color-yellow-light.p-3(x="71%" y="52%")
             p Este atributo toma una gran importancia al momento de tomar la decisión de adquirir el producto.
-          .tarjeta.color-yellow-light.p-3(x="57%" y="38%")
+          .tarjeta.color-yellow-light.p-3(x="57%" y="39%")
             p Es el elemento que protege al producto y que junto al diseño, adquiere un gran valor promocional y de imagen.
-          .tarjeta.color-yellow-light.p-3(x="79%" y="72%")
+          .tarjeta.color-yellow-light.p-3(x="79%" y="73%")
             p Permiten, en mayor o menor grado, la identificación del producto o la empresa.
-          .tarjeta.color-yellow-light.p-3(x="33%" y="77%")
+          .tarjeta.color-yellow-light.p-3(x="33%" y="78%")
             p Facilita la identificación del producto y que asociado a otro atributo, permite su recuerdo.
-          .tarjeta.color-yellow-light.p-3(x="74%" y="14%")
+          .tarjeta.color-yellow-light.p-3(x="74%" y="15%")
             p Conjunto de valores agregados a la compra del producto
     
     p.mb-4 El departamento de #[i marketing] debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.

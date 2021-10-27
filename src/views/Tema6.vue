@@ -25,22 +25,34 @@
           ul.lista-ul--color
             li 
               i.fas.fa-check-circle
-              | #[strong El diseño y la presentación]: presentar la propuesta comercial en una carpeta con identificación visual de la empresa, colores, material, papel membretado, entre otros aspectos. Son factores que llaman la atención como primera impresión de la propuesta.
+              p 
+                strong El diseño y la presentación: 
+                | presentar la propuesta comercial en una carpeta con identificación visual de la empresa, colores, material, papel membretado, entre otros aspectos. Son factores que llaman la atención como primera impresión de la propuesta.
             li 
               i.fas.fa-check-circle
-              | #[strong Incluir un índice]: los índices ayudan a estructurar la información y le permitirá al cliente localizar fácilmente la información dentro de la propuesta.
+              p
+                strong Incluir un índice: 
+                | los índices ayudan a estructurar la información y le permitirá al cliente localizar fácilmente la información dentro de la propuesta.
             li 
               i.fas.fa-check-circle
-              | #[strong Excelente redacción]: la propuesta debe redactarse de forma clara y concisa para que no genere inquietudes o vacíos en la información.
+              p
+                strong Excelente redacción: 
+                | la propuesta debe redactarse de forma clara y concisa para que no genere inquietudes o vacíos en la información.
             li 
               i.fas.fa-check-circle
-              | #[strong Importancia del precio y la forma de pago]: para nadie es un secreto que el precio es un factor importante para la toma de decisiones; por consiguiente, la propuesta comercial debe presentar unos precios competitivos y una forma de pago que ayude al cierre de la venta.
+              p
+                strong Importancia del precio y la forma de pago: 
+                | para nadie es un secreto que el precio es un factor importante para la toma de decisiones; por consiguiente, la propuesta comercial debe presentar unos precios competitivos y una forma de pago que ayude al cierre de la venta.
             li 
               i.fas.fa-check-circle
-              | #[strong Cronograma]: consecuente con el precio, se presenta el cronograma de actividades o de acciones, esto permite comparar qué tan competitiva es la propuesta, relacionando precio con el tiempo de desarrollo. Presentar fechas claras, genera confianza en la empresa que presenta la propuesta.
+              p
+                strong Cronograma: 
+                | consecuente con el precio, se presenta el cronograma de actividades o de acciones, esto permite comparar qué tan competitiva es la propuesta, relacionando precio con el tiempo de desarrollo. Presentar fechas claras, genera confianza en la empresa que presenta la propuesta.
             li 
               i.fas.fa-check-circle
-              | #[strong Opciones]: presentar al cliente más de una opción para el desarrollo de la propuesta le dará criterios al cliente para comparar y tomar una mejor decisión.
+              p
+                strong Opciones: 
+                | presentar al cliente más de una opción para el desarrollo de la propuesta le dará criterios al cliente para comparar y tomar una mejor decisión.
       .row(titulo="Estructura de una propuesta")
         .col-md-11.mb-0
           p.mb-4 Una estructura común para las propuestas comerciales, presenta una serie de parámetros e información que le permite organizar las diferentes opciones que le presentará al cliente, encontrando:

@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Propuesta comercial de un producto o servicio.',
+    componenteFormativo: 'Propuesta comercial de un producto o servicio',
     descripcionCurso:
       'Una propuesta comercial es un documento presentado al cliente con la información del producto o servicio; describiendo beneficios, plazos de entrega, alcance, formas de pago, entre otros. <br><br> Se abordarán sus principales componentes: identificación de necesidades, descripción del producto, condiciones de la propuesta y formas de presentación. Finalmente, se muestran técnicas de negociación y herramientas para la socialización de la propuesta.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),

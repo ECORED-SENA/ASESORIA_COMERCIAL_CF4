@@ -48,7 +48,7 @@
       span #[i Dimensiones del surtido]
 
     figure.mb-4(data-aos="flip-up")
-      img(src='@/assets/curso/tema3/img02.svg')
+      img(src='@/assets/curso/tema3/img02.png')
     
     Separador
     #t_3_3.titulo-segundo(data-aos="fade-right")
@@ -71,7 +71,7 @@
       span #[i Clasificación del surtido]
 
     figure.mb-4(data-aos="flip-up")
-      img(src='@/assets/curso/tema3/img03.svg')
+      img(src='@/assets/curso/tema3/img03.png')
 
     Separador
     #t_3_4.titulo-segundo(data-aos="fade-right")

@@ -335,16 +335,12 @@
     #t_2_10.titulo-segundo(data-aos="fade-right")
       .h3 2.10 Ciclo de vida
     
+    p.mb-4 La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[i Harvard Bussines Review]. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
         p En el siguiente recurso se muestra gráficamente el ciclo de vida de un producto:
-    
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA
-        .row.justify-content-center.p-4
-          .col-md-10.mb-4.mb-md-0.color-white.p-4
-            h4 Ciclo de vida del producto.
-            p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[i Harvard Bussines Review]. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
         .row.justify-content-center.p-4
           .col-md-10.mb-4.mb-md-0.color-white.p-4
             h4 Ciclo de vida del producto.

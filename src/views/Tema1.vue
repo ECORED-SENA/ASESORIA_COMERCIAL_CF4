@@ -37,10 +37,7 @@
       .tarjeta.color-red-light.p-3(x="97%" y="69%")
         h4 Autorrealización o autoactualización.
         p Maslow describe estas necesidades como el cumplimiento de los ideales personales en una actividad específica. Autorrealizarse muchas veces implica la búsqueda de creatividad, talento, crecimiento, experiencias y descubrimiento (McLeod, 2007).
-    figure.mb-4
-      img(src='@/assets/curso/tema1/img02.svg')(data-aos="flip-up")
     separador
-
 </template>
 
 <script>

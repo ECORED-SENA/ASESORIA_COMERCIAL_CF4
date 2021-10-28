@@ -1,36 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1030.602" height="325.128" viewBox="0 0 1030.602 325.128">
-  <g id="Grupo_84489" data-name="Grupo 84489" transform="translate(-148.041 -6375.663)">
-    <rect id="Rectángulo_24408" data-name="Rectángulo 24408" width="2" height="26.652" transform="translate(672.767 6513.944)" fill="#142035"/>
-    <path id="Trazado_190245" data-name="Trazado 190245" d="M245.027,6540.6H243.09v-62.385H550.873v2H245.027Z" transform="translate(9.951)" fill="#142035"/>
-    <g id="Grupo_84489-2" data-name="Grupo 84489">
-      <path id="Trazado_190246" data-name="Trazado 190246" d="M718.186,6423.652H581.919v32.479h178.8v-32.479Z" fill="#da6e5f"/>
-      <path id="Trazado_190247" data-name="Trazado 190247" d="M761.219,6456.631h-179.8v-33.479h179.8Zm-178.8-1h177.8v-31.479h-177.8Z" fill="#da6e5f"/>
-    </g>
-    <g id="Grupo_84492" data-name="Grupo 84492">
-      <g id="Grupo_84490" data-name="Grupo 84490">
-        <rect id="Rectángulo_24409" data-name="Rectángulo 24409" width="20.823" height="2" transform="translate(545.597 6417.03)" fill="#da6e5f"/>
-        <rect id="Rectángulo_24410" data-name="Rectángulo 24410" width="2" height="20.822" transform="translate(555.009 6407.619)" fill="#da6e5f"/>
+  <g id="Grupo_87271" data-name="Grupo 87271" transform="translate(-285 -8788.243)">
+    <g id="Grupo_84489" data-name="Grupo 84489" transform="translate(136.959 2412.58)">
+      <rect id="Rectángulo_24408" data-name="Rectángulo 24408" width="2" height="26.652" transform="translate(672.767 6513.944)" fill="#142035"/>
+      <path id="Trazado_190245" data-name="Trazado 190245" d="M245.027,6540.6H243.09v-62.385H550.873v2H245.027Z" transform="translate(9.951)" fill="#142035"/>
+      <g id="Grupo_84489-2" data-name="Grupo 84489">
+        <path id="Trazado_190246" data-name="Trazado 190246" d="M718.186,6423.652H581.919v32.479h178.8v-32.479Z" fill="#da6e5f"/>
+        <path id="Trazado_190247" data-name="Trazado 190247" d="M761.219,6456.631h-179.8v-33.479h179.8Zm-178.8-1h177.8v-31.479h-177.8Z" fill="#da6e5f"/>
       </g>
-      <g id="Grupo_84491" data-name="Grupo 84491">
-        <rect id="Rectángulo_24411" data-name="Rectángulo 24411" width="30.957" height="2" transform="translate(573.904 6391.141)" fill="#da6e5f"/>
-        <rect id="Rectángulo_24412" data-name="Rectángulo 24412" width="2" height="30.956" transform="translate(588.382 6376.663)" fill="#da6e5f"/>
+      <g id="Grupo_84492" data-name="Grupo 84492">
+        <g id="Grupo_84490" data-name="Grupo 84490">
+          <rect id="Rectángulo_24409" data-name="Rectángulo 24409" width="20.823" height="2" transform="translate(545.597 6417.03)" fill="#da6e5f"/>
+          <rect id="Rectángulo_24410" data-name="Rectángulo 24410" width="2" height="20.822" transform="translate(555.009 6407.619)" fill="#da6e5f"/>
+        </g>
+        <g id="Grupo_84491" data-name="Grupo 84491">
+          <rect id="Rectángulo_24411" data-name="Rectángulo 24411" width="30.957" height="2" transform="translate(573.904 6391.141)" fill="#da6e5f"/>
+          <rect id="Rectángulo_24412" data-name="Rectángulo 24412" width="2" height="30.956" transform="translate(588.382 6376.663)" fill="#da6e5f"/>
+        </g>
+        <path id="Trazado_190248" data-name="Trazado 190248" d="M556.009,6392.1a8.219,8.219,0,1,1,8.219-8.219A8.229,8.229,0,0,1,556.009,6392.1Zm0-14.438a6.219,6.219,0,1,0,6.219,6.219A6.226,6.226,0,0,0,556.009,6377.663Z" fill="#da6e5f"/>
       </g>
-      <path id="Trazado_190248" data-name="Trazado 190248" d="M556.009,6392.1a8.219,8.219,0,1,1,8.219-8.219A8.229,8.229,0,0,1,556.009,6392.1Zm0-14.438a6.219,6.219,0,1,0,6.219,6.219A6.226,6.226,0,0,0,556.009,6377.663Z" fill="#da6e5f"/>
+      <text id="Industriales" transform="translate(671.319 6492.55)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-55.573" y="0">Industriales</tspan></text>
+      <path id="Trazado_190249" data-name="Trazado 190249" d="M782.814,6514.944H559.824v-59.813h222.99Zm-220.99-2h218.99v-55.813H561.824Z" fill="#da6e5f"/>
+      <path id="Trazado_190250" data-name="Trazado 190250" d="M291.4,6540.6H155.136v32.479h178.8V6540.6Z" transform="translate(15)" fill="#3d84cb"/>
+      <text id="Ayudan_en_la_producción_o_las_operaciones_del_comprador." data-name="Ayudan en la producción o las operaciones del comprador." transform="translate(162.745 6577.594)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Ayudan en la </tspan><tspan x="0" y="46.866">producción o las </tspan><tspan x="0" y="71.732">operaciones del </tspan><tspan x="0" y="96.598">comprador.</tspan></text>
+      <text id="De_capital" data-name="De capital" transform="translate(259.536 6562.156)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-36.798" y="0">De capital</tspan></text>
+      <path id="Trazado_190251" data-name="Trazado 190251" d="M356.031,6693.127H133.041V6572.89h222.99Zm-220.99-2h218.99V6574.89H135.041Z" transform="translate(15)" fill="#3d84cb"/>
+      <path id="Trazado_190252" data-name="Trazado 190252" d="M727.1,6540.6H572.028v32.479H775.506V6540.6Z" fill="#e18a7f"/>
+      <g id="Grupo_87270" data-name="Grupo 87270">
+        <text id="Materias_primas_materiales_y_componentes_manufacturados." data-name="Materias primas, materiales y componentes manufacturados." transform="translate(574.879 6581.448)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Materias primas, </tspan><tspan x="0" y="46.866">materiales y </tspan><tspan x="0" y="71.732">componentes </tspan><tspan x="0" y="96.598">manufacturados.</tspan></text>
+      </g>
+      <text id="Materiales_y_refacciones" data-name="Materiales y refacciones" transform="translate(673.767 6562.156)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-91.56" y="0">Materiales y refacciones</tspan></text>
+      <path id="Trazado_190253" data-name="Trazado 190253" d="M785.262,6691.59H562.273V6572.926H785.262Zm-220.989-2H783.262V6574.926H564.273Z" fill="#e18a7f"/>
+      <path id="Trazado_190254" data-name="Trazado 190254" d="M1073.041,6536.794H1071.1v-60.385H781.814v-2h291.227Z" fill="#142035"/>
+      <path id="Trazado_190255" data-name="Trazado 190255" d="M1132.433,6536.794H986.6v32.479h191.356v-32.479Z" transform="translate(-15.728)" fill="#dabd36"/>
+      <text id="Artículos_para_reparación_mantenimiento_y_servicios_de_negocios." data-name="Artículos para reparación, mantenimiento y servicios de negocios." transform="translate(960.643 6573.791)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Artículos para </tspan><tspan x="0" y="46.866">reparación, </tspan><tspan x="0" y="71.732">mantenimiento y </tspan><tspan x="0" y="96.598">servicios de negocios.</tspan></text>
+      <text id="Suministros_y_servicios" data-name="Suministros y servicios" transform="translate(1066.546 6558.354)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-86.924" y="0">Suministros y servicios</tspan></text>
+      <path id="Trazado_190256" data-name="Trazado 190256" d="M1193.769,6689.324H970.78V6569.088h222.989Zm-220.989-2h218.989V6571.088H972.78Z" transform="translate(-15.728)" fill="#dabd36"/>
     </g>
-    <text id="Industriales" transform="translate(671.319 6492.55)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-55.573" y="0">Industriales</tspan></text>
-    <path id="Trazado_190249" data-name="Trazado 190249" d="M782.814,6514.944H559.824v-59.813h222.99Zm-220.99-2h218.99v-55.813H561.824Z" fill="#da6e5f"/>
-    <path id="Trazado_190250" data-name="Trazado 190250" d="M291.4,6540.6H155.136v32.479h178.8V6540.6Z" transform="translate(15)" fill="#3d84cb"/>
-    <text id="Ayudan_en_la_producción_o_las_operaciones_del_comprador." data-name="Ayudan en la producción o las operaciones del comprador." transform="translate(162.745 6577.594)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Ayudan en la </tspan><tspan x="0" y="46.866">producción o las </tspan><tspan x="0" y="71.732">operaciones del </tspan><tspan x="0" y="96.598">comprador.</tspan></text>
-    <text id="De_capital" data-name="De capital" transform="translate(259.536 6562.156)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-36.798" y="0">De capital</tspan></text>
-    <path id="Trazado_190251" data-name="Trazado 190251" d="M356.031,6693.127H133.041V6572.89h222.99Zm-220.99-2h218.99V6574.89H135.041Z" transform="translate(15)" fill="#3d84cb"/>
-    <path id="Trazado_190252" data-name="Trazado 190252" d="M727.1,6540.6H572.028v32.479H775.506V6540.6Z" fill="#e18a7f"/>
-    <text id="Materias_primas_materiales_y_componentes_manufacturados" data-name="Materias primas, materiales y componentes manufacturados" transform="translate(574.879 6581.448)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Materias primas, </tspan><tspan x="0" y="46.866">materiales y </tspan><tspan x="0" y="71.732">componentes </tspan><tspan x="0" y="96.598">manufacturados</tspan></text>
-    <text id="Materiales_y_refacciones" data-name="Materiales y refacciones" transform="translate(673.767 6562.156)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-91.56" y="0">Materiales y refacciones</tspan></text>
-    <path id="Trazado_190253" data-name="Trazado 190253" d="M785.262,6691.59H562.273V6572.926H785.262Zm-220.989-2H783.262V6574.926H564.273Z" fill="#e18a7f"/>
-    <path id="Trazado_190254" data-name="Trazado 190254" d="M1073.041,6536.794H1071.1v-60.385H781.814v-2h291.227Z" fill="#142035"/>
-    <path id="Trazado_190255" data-name="Trazado 190255" d="M1132.433,6536.794H986.6v32.479h191.356v-32.479Z" transform="translate(-15.728)" fill="#dabd36"/>
-    <text id="Artículos_para_reparación_mantenimiento_y_servicios_de_negocios." data-name="Artículos para reparación, mantenimiento y servicios de negocios." transform="translate(960.643 6573.791)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Artículos para </tspan><tspan x="0" y="46.866">reparación, </tspan><tspan x="0" y="71.732">mantenimiento y </tspan><tspan x="0" y="96.598">servicios de negocios.</tspan></text>
-    <text id="Suministros_y_servicios" data-name="Suministros y servicios" transform="translate(1066.546 6558.354)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-86.924" y="0">Suministros y servicios</tspan></text>
-    <path id="Trazado_190256" data-name="Trazado 190256" d="M1193.769,6689.324H970.78V6569.088h222.989Zm-220.989-2h218.989V6571.088H972.78Z" transform="translate(-15.728)" fill="#dabd36"/>
   </g>
 </svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="324.931" viewBox="0 0 1030 324.931">
+<svg xmlns="http://www.w3.org/2000/svg" width="1030.602" height="325.128" viewBox="0 0 1030.602 325.128">
   <g id="Grupo_84489" data-name="Grupo 84489" transform="translate(-148.041 -6375.663)">
     <rect id="Rectángulo_24408" data-name="Rectángulo 24408" width="2" height="26.652" transform="translate(672.767 6513.944)" fill="#142035"/>
     <path id="Trazado_190245" data-name="Trazado 190245" d="M245.027,6540.6H243.09v-62.385H550.873v2H245.027Z" transform="translate(9.951)" fill="#142035"/>
@@ -29,7 +29,7 @@
     <path id="Trazado_190253" data-name="Trazado 190253" d="M785.262,6691.59H562.273V6572.926H785.262Zm-220.989-2H783.262V6574.926H564.273Z" fill="#e18a7f"/>
     <path id="Trazado_190254" data-name="Trazado 190254" d="M1073.041,6536.794H1071.1v-60.385H781.814v-2h291.227Z" fill="#142035"/>
     <path id="Trazado_190255" data-name="Trazado 190255" d="M1132.433,6536.794H986.6v32.479h191.356v-32.479Z" transform="translate(-15.728)" fill="#dabd36"/>
-    <text id="Artículos_para_reparación_mantenimiento_y_servicios_de_negocios." data-name="Artículos para reparación, mantenimiento y servicios de negocios." transform="translate(960.643 6573.791)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Artículos para </tspan><tspan x="0" y="46.866">reparación, </tspan><tspan x="0" y="71.732">mantenimiento y </tspan><tspan x="0" y="96.598">servicios de </tspan></text>
+    <text id="Artículos_para_reparación_mantenimiento_y_servicios_de_negocios." data-name="Artículos para reparación, mantenimiento y servicios de negocios." transform="translate(960.643 6573.791)" fill="#073360" font-size="20.722" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="22">Artículos para </tspan><tspan x="0" y="46.866">reparación, </tspan><tspan x="0" y="71.732">mantenimiento y </tspan><tspan x="0" y="96.598">servicios de negocios.</tspan></text>
     <text id="Suministros_y_servicios" data-name="Suministros y servicios" transform="translate(1066.546 6558.354)" fill="#fff" font-size="16.439" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-86.924" y="0">Suministros y servicios</tspan></text>
     <path id="Trazado_190256" data-name="Trazado 190256" d="M1193.769,6689.324H970.78V6569.088h222.989Zm-220.989-2h218.989V6571.088H972.78Z" transform="translate(-15.728)" fill="#dabd36"/>
   </g>

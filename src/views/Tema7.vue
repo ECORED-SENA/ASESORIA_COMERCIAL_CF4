@@ -24,7 +24,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema7/img02.svg')
+          img(src='@/assets/curso/tema7/img02.png')
       .tarjeta.color-red-light.p-3(x="36%" y="21%")
         p Soluciones de escritorio: son aquellas herramientas que se deben instalar localmente en cada computador para que puedan funcionar. Usualmente, requieren de la compra de una licencia o bien pueden instalarse de forma gratuita según la marca. Por ejemplo, Microsoft Office (pago por licencia) y Open Office (gratuito).
       .tarjeta.color-red-light.p-3(x="63%" y="25%")
@@ -51,19 +51,33 @@
           tr
             td Procesador de texto
             td Usado para la redacción de informes, cartas, contenidos, memorandos, folletos sencillos, manuales, tesis, etc. Si el documento es en línea, se pueden introducir animaciones, videos, entre otros.
-            td Word (Office) <br> Writer (Open office) <br> Documentos (Google)
+            td #[i Word (Office)] 
+              br 
+              | #[i Writer (Open office)] 
+              br
+              | Documentos (#[i Google])
           tr
             td Hoja de cálculo
             td Su función principal es generar planillas con balances, control de gastos, estados de cuenta, manejos contables, etc.
-            td Excel (Office) <br> Calc (Open office) <br> Hoja de cálculo (Google)
+            td #[i Excel (Office)]
+              br
+              | #[i Calc (Open office)]
+              br
+              | Hoja de cálculo (#[i Google])
           tr
             td Bases de datos
             td Permite la creación y administración de datos del usuario, control de inventarios, consulta de registros, entre otras aplicaciones.
-            td Access (Office) <br> Base (Open Office)
+            td #[i Access (Office)] 
+              br 
+              | Base #[i (Open Office)]
           tr
             td Presentaciones
-            td Permite la creación de presentaciones basadas en diapositivas o slides para la exposición de información, gráficos, infografías, videos, animaciones, gráficos, etc.
-            td PowerPoint (Office) <br> Impress (Open Office) <br> Presentaciones (Google)
+            td Permite la creación de presentaciones basadas en diapositivas o #[i slides] para la exposición de información, gráficos, infografías, videos, animaciones, gráficos, etc.
+            td #[i PowerPoint (Office)] 
+              br
+              | #[i Impress (Open Office)]
+              br
+              | Presentaciones (#[i Google])
     separador
 </template>
 

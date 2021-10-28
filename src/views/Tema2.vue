@@ -132,10 +132,6 @@
         p.mb-4 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del #[i marketing]. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
         p A continuación, se muestran los niveles del producto:
 
-    .row.mb-4
-      .col-lg-3.col-6
-        img(src='@/assets/curso/tema2/img11.svg')(data-aos="fade-right") 
-
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema2/img12.png')
 
@@ -178,8 +174,48 @@
       .col-lg-10
         p En las principales características del producto, tenemos aquellas que pueden clasificarse en orden general y aquellas que son técnicas. Encontrando:
     
-    figure.mb-4(data-aos="flip-up")
-      img(src='@/assets/curso/tema2/img16.png')  
+    ImagenInfografica.color-acento-botones.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/tema2/img16.png')
+      .tarjeta.color-yellow-light.p-3(x="23%" y="43%")
+        h4 Tangibles:
+        ul.lista-ul--color
+          li 
+            i.fas.fa-check-circle
+            | Precio: el precio es el monto o valor económico (en moneda) que se asigna a un producto con el fin que pueda ser adquirido por el cliente o consumidor.
+          li 
+            i.fas.fa-check-circle
+            | Diseño: el diseño en un producto se refiere a la combinación de la tipografía, color, forma, tamaño, material, entre otros, que constituyen el aspecto visual del producto.
+          li 
+            i.fas.fa-check-circle
+            | Envase: es el contenedor que mantiene o contiene el producto y lo protege de agentes externos.
+          li 
+            i.fas.fa-check-circle
+            | Etiquetado: es la pieza que completa el empaque de todo tipo de producto, presenta la información de ingredientes, composición, material, instrucciones, entre otras para manipular correctamente el producto.
+      .tarjeta.color-yellow-light.p-3(x="77%" y="43%")
+        h4 Intangibles
+        ul.lista-ul--color
+          li 
+            i.fas.fa-check-circle
+            | Calidad: es la percepción que el cliente tiene del producto en su totalidad, no solo por sus atributos tangibles, sino también por sus beneficios, valores agregados, etc.
+          li 
+            i.fas.fa-check-circle
+            | Marcas o símbolos: es la imagen que permite que los consumidores identifiquen el producto.
+          li 
+            i.fas.fa-check-circle
+            | Imagen corporativa: es la identidad visual de la empresa que representa al producto y lo posiciona.
+          li 
+            i.fas.fa-check-circle
+            | Servicios: los servicios asociados al producto, hacen parte del acompañamiento o garantías que la empresa pone al servicio del cliente.
+      .tarjeta.color-red-light.p-3(x="13%" y="79%")
+        p #[strong Peso]: se refiere a las unidades como miligramos, gramo, kilogramo, etc contenido en el envase. 
+      .tarjeta.color-red-light.p-3(x="37%" y="79%")
+        p #[strong Densidad]: la densidad en un producto es la relación entre el peso, las dimensiones, el tamaño y el espacio que ocupa un producto en la estantería. En ocasiones, un cliente no compra un producto, porque ocupa demasiado espacio, pese a que el producto es liviano.
+      .tarjeta.color-red-light.p-3(x="60%" y="79%")
+        p #[strong Material]: en caso de los productos tangibles, se refiere a la composición del producto.
+      .tarjeta.color-red-light.p-3(x="85%" y="79%")
+        p #[strong Volumen]: en el caso de los líquidos, se refiere al espacio que ocupa el producto en relación con el peso.
 
     Separador
     #t_2_5.titulo-segundo(data-aos="fade-right")
@@ -226,7 +262,7 @@
     
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
-        p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de snacks, botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
+        p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de #[i snacks], botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
           h5 Figura 6
           span #[i El envase contiene el producto y lo protege de los agentes externos]
@@ -246,8 +282,19 @@
         p.mb-4 El embalaje es una forma de empaque que, principalmente, cumple la función de transportar el producto de un lugar a otro, como parte de un proceso logístico. El embalaje no necesariamente es en cajas, también puede ser un envoltorio plástico que se pone alrededor de uno o varios productos envasados o empaquetados.
         p Los embalajes pueden clasificarse en 3 niveles:
 
-    figure.mb-4(data-aos="flip-up")
-      img(src='@/assets/curso/tema2/img21.png') 
+    ImagenInfografica.color-acento-contenido.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/tema2/img21.png')
+      .tarjeta.color-blue-light.p-3(x="53%" y="20%")
+        h4 Empaque primario
+        p Está en contacto directo con el producto
+      .tarjeta.color-blue-light.p-3(x="80%" y="40%")
+        h4 Empaque secundario
+        p Protege el embalaje primario y se puede desechar al momento de que el producto es usado.
+      .tarjeta.color-blue-light.p-3(x="37%" y="74%")
+        h4 Empaque terciario o de transporte
+        p Protege al producto al momento de transportarlo, especialmente en exportación o distribución.
 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
@@ -255,19 +302,21 @@
         ul.lista-ul--color
           li 
             i.fas.fa-check-circle
-            | #[strong Contra maltrato]: Al momento de algún desplazamiento o transporte, el producto podría golpearse o sufrir algún daño
+            p 
+              strong Contra maltrato
+              | : al momento de algún desplazamiento o transporte, el producto podría golpearse o sufrir algún daño
           li 
             i.fas.fa-check-circle
-            | #[strong Humedad]: El embalaje evita que el producto esté en contacto con agentes externos como el agua o la humedad.
+            | #[strong Humedad]: el embalaje evita que el producto esté en contacto con agentes externos como el agua o la humedad.
           li 
             i.fas.fa-check-circle
-            | #[strong Temperatura]: El embalaje protege el producto de los cambios de temperatura o agentes climáticos.
+            | #[strong Temperatura]: el embalaje protege el producto de los cambios de temperatura o agentes climáticos.
           li 
             i.fas.fa-check-circle
-            | #[strong Radiación]: La radiación puede afectar el producto, aún si no se tiene un contacto directo.
+            | #[strong Radiación]: la radiación puede afectar el producto, aún si no se tiene un contacto directo.
           li 
             i.fas.fa-check-circle
-            | #[strong Luminosidad]: Existen productos que no pueden recibir demasiada luz, tales como medicamentos u otros líquidos. En este caso, el embalaje protege al producto de los cambios de luz.
+            | #[strong Luminosidad]: existen productos que no pueden recibir demasiada luz, tales como medicamentos u otros líquidos. En este caso, el embalaje protege al producto de los cambios de luz.
         p El auge del comercio electrónico le ha dado mucha importancia al embalaje, pues garantiza que el producto llegue de forma segura al consumidor. Alimentos, kits de herramientas, ropa, medicamentos, entre otros, ya están llegando a las puertas de los clientes, por tanto, la empresa debe asegurar que el producto llegue intacto.
     Separador
     #t_2_9.titulo-segundo(data-aos="fade-right")

@@ -322,7 +322,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Online</em>',
+      termino: 'Online',
       significado:
         'En español, “en línea”, que se accede mediante una conexión a internet o que se encuentra en internet.',
     },
@@ -337,7 +337,7 @@ export default {
         'Persona que actúa reaccionando a las circunstancias externas',
     },
     {
-      termino: '<em>Stock</em>',
+      termino: 'Stock',
       significado:
         'Conjunto de mercancías o productos que se tienen almacenados en espera de su venta o comercialización.',
     },
@@ -348,12 +348,6 @@ export default {
         'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
       tipo: 'Libro',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      link: '/downloads/prueba.pdf',
     },
     {
       texto:
@@ -389,6 +383,21 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Paolo Andrés Cantillo Largo',
+        cargo: 'Experto temático',
+        centro: 'Centro de comercio Regional Antioquia',
+      },
+      {
+        nombre: 'Zenith Chinchilla Ruedas',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
@@ -403,25 +412,54 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Anllelo Andres Reina Montañez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

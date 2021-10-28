@@ -99,7 +99,7 @@
           li 
             i.fas.fa-check-circle
             |	Ayudar en la toma de decisiones respecto a la distribución de los productos.
-      .col-lg-5
+      .col-lg-6
         img(src='@/assets/curso/tema3/img04.png')(data-aos="fade-left")
     
     Separador

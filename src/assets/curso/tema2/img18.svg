@@ -75,7 +75,7 @@
       <line id="Línea_239" data-name="Línea 239" y1="18.577" transform="translate(185.42)" fill="none" stroke="#da6e5f" stroke-miterlimit="10" stroke-width="2"/>
     </g>
     <g id="Grupo_84574" data-name="Grupo 84574" transform="translate(854.216 86.042)">
-      <line id="Línea_240" data-name="Línea 240" x2="185.42" transform="translate(0 1.111)" fill="none" stroke="#da6e5f" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_193776" data-name="Trazado 193776" d="M0,0,121.623.356" transform="translate(0 1.111)" fill="none" stroke="#da6e5f" stroke-width="2"/>
       <line id="Línea_241" data-name="Línea 241" y1="18.577" transform="translate(0)" fill="none" stroke="#da6e5f" stroke-miterlimit="10" stroke-width="2"/>
     </g>
     <g id="Grupo_84575" data-name="Grupo 84575" transform="translate(662.951 146.14)">
@@ -92,7 +92,7 @@
     <text id="la_normativa_de_cada_país_" data-name="la normativa de cada país " transform="translate(1006.871 219.367)" fill="#fff" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="4.366" y="17">la normativa de </tspan><tspan x="25.819" y="33">cada país </tspan></text>
     <path id="Trazado_190462" data-name="Trazado 190462" d="M1177.288,195.041H1033.811V283.4h188.26V195.041Z" transform="translate(115.131 17.287)" fill="#3d84cb"/>
     <text id="el_sector_de_la_industria_a_la_que_pertenece_el_producto." data-name="el sector de la industria a la que pertenece el producto." transform="translate(1164.15 213.988)" fill="#fff" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="25.972" y="17">el sector de la </tspan><tspan x="14.492" y="33">industria a la que </tspan><tspan x="31.453" y="49">pertenece el </tspan><tspan x="41.972" y="65">producto.</tspan></text>
-    <line id="Línea_248" data-name="Línea 248" x1="35.373" transform="translate(679.95 258.118)" fill="none" stroke="#3d84cb" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_193774" data-name="Trazado 193774" d="M35.373,0H8.135" transform="translate(679.95 258.118)" fill="none" stroke="#3d84cb" stroke-width="2"/>
     <line id="Línea_249" data-name="Línea 249" x1="68.739" y2="29.294" transform="translate(646.584 277.159)" fill="none" stroke="#3d84cb" stroke-miterlimit="10" stroke-width="2"/>
     <line id="Línea_250" data-name="Línea 250" x1="77.14" y2="84.707" transform="translate(644.212 281.211)" fill="none" stroke="#3d84cb" stroke-miterlimit="10" stroke-width="2"/>
     <line id="Línea_251" data-name="Línea 251" y1="127.277" x2="81.168" transform="translate(656.491 281.317)" fill="none" stroke="#3d84cb" stroke-miterlimit="10" stroke-width="2"/>

@@ -14,14 +14,15 @@
     p.mb-4 La propuesta comercial es un documento en el que el cliente tendrá toda la información sobre el producto o servicio que desea adquirir, incluyendo plazos de entrega, alcance de trabajo, valores y formas de pago. Se debe tener en cuenta
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-      .row(titulo="Elementos de una propuesta comercial")
+      .row.justify-content-center(titulo="Elementos de una propuesta comercial")
         .col-md-11.mb-0
           p.mb-4 Aunque existen varias posturas y corrientes que proponen elementos diversos para una propuesta comercial, es común identificar 3 grandes elementos que la componen:
           img(src='@/assets/curso/tema6/img02.svg')
     
-      .row(titulo="Elaboración de una propuesta")
-        .col-md-11.mb-0
+      .row.justify-content-center(titulo="Elaboración de una propuesta")
+        .col-md-12.mb-0
           p.mb-4 Crear la propuesta comercial puede representar un reto para algunos, porque no solo representa redactar bien los términos, sino también el diseño, la estructura, la extensión, entre otros elementos. Algunos de los elementos para tener en cuenta al momento de redactar una propuesta son:
+        .col-md-11.mb-0
           ul.lista-ul--color
             li 
               i.fas.fa-check-circle
@@ -53,9 +54,10 @@
               p
                 strong Opciones: 
                 | presentar al cliente más de una opción para el desarrollo de la propuesta le dará criterios al cliente para comparar y tomar una mejor decisión.
-      .row(titulo="Estructura de una propuesta")
-        .col-md-11.mb-0
+      .row.justify-content-center(titulo="Estructura de una propuesta")
+        .col-md-12.mb-0
           p.mb-4 Una estructura común para las propuestas comerciales, presenta una serie de parámetros e información que le permite organizar las diferentes opciones que le presentará al cliente, encontrando:
+        .col-md-11.mb-0
           ul.lista-ul--color
             li 
               i.fas.fa-check-circle
@@ -90,7 +92,7 @@
             li 
               i.fas.fa-check-circle
               | Términos de confidencialidad (si los hay).
-
+        .col-md-12.mb-0
           p.mb-4 Finalmente, la propuesta debe cerrarse con información de la empresa que la presenta, esto con el fin de generar confianza con los términos que se expresan en el documento:
           ul.lista-ul--color
             li 

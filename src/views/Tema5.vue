@@ -86,60 +86,60 @@
                 th Método Harvard
             tbody
               tr
-                td Participantes
-                td Amigos
-                td Adversarios
-                td Solucionador
+                td.text-center Participantes
+                td.text-center Amigos
+                td.text-center Adversarios
+                td.text-center Solucionador
               tr
-                td Meta
-                td Generar un acuerdo
-                td Que haya un ganador
-                td Buen acuerdo entre las partes
+                td.text-center Meta
+                td.text-center Generar un acuerdo
+                td.text-center Que haya un ganador
+                td.text-center Buen acuerdo entre las partes
               tr
-                td Relación
-                td Se cultiva una relación de largo plazo
-                td Hay un relacionamiento con condición
-                td Se cultiva una relación de largo plazo
+                td.text-center Relación
+                td.text-center Se cultiva una relación de largo plazo
+                td.text-center Hay un relacionamiento con condición
+                td.text-center Se cultiva una relación de largo plazo
               tr
-                td Concesiones
-                td Se hace una concesión
-                td Se demanda una concesión
-                td Según los términos se hace o se demanda
+                td.text-center Concesiones
+                td.text-center Se hace una concesión
+                td.text-center Se demanda una concesión
+                td.text-center Según los términos se hace o se demanda
               tr
-                td Con el problema
-                td Usualmente el problema no es grave
-                td Se presenta principalmente con problemas graves
-                td Se presenta principalmente con problemas graves
+                td.text-center Con el problema
+                td.text-center Usualmente el problema no es grave
+                td.text-center Se presenta principalmente con problemas graves
+                td.text-center Se presenta principalmente con problemas graves
               tr
-                td Con la gente
-                td Buen trato y cordialidad
-                td Buen trato
-                td Buen trato y cordialidad
+                td.text-center Con la gente
+                td.text-center Buen trato y cordialidad
+                td.text-center Buen trato
+                td.text-center Buen trato y cordialidad
               tr
-                td Con los otros
-                td Relación de confianza
-                td Relación de “desconfianza”
-                td Neutral
+                td.text-center Con los otros
+                td.text-center Relación de confianza
+                td.text-center Relación de “desconfianza”
+                td.text-center Neutral
               tr
-                td Posición
-                td Flexibilidad
-                td Rígidos y estrictos
-                td Según el interés
+                td.text-center Posición
+                td.text-center Flexibilidad
+                td.text-center Rígidos y estrictos
+                td.text-center Según el interés
               tr
-                td Avance
-                td Se hacen ofertas
-                td Se condiciona la oferta
-                td Se exploran intereses
+                td.text-center Avance
+                td.text-center Se hacen ofertas
+                td.text-center Se condiciona la oferta
+                td.text-center Se exploran intereses
               tr
-                td Límites
-                td Se definen los límites
-                td Se esconden
-                td Se evita tenerlos
+                td.text-center Límites
+                td.text-center Se definen los límites
+                td.text-center Se esconden
+                td.text-center Se evita tenerlos
               tr
-                td Unilateralidad
-                td Se aceptan pérdidas (si las hay)
-                td Se demandan las ganancias
-                td La ganancia es mutua.
+                td.text-center Unilateralidad
+                td.text-center Se aceptan pérdidas (si las hay)
+                td.text-center Se demandan las ganancias
+                td.text-center La ganancia es mutua.
 
     Separador
     #t_5_4.titulo-segundo(data-aos="fade-right")

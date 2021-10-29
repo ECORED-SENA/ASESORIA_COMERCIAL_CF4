@@ -273,12 +273,10 @@ export default {
     {
       referencia:
         'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393',
     },
     {
       referencia:
         'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2016). Dirección De Marketing. Decimoquinta. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273',
     },
     {
       referencia:

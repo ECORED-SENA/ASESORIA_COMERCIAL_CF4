@@ -41,7 +41,7 @@
             h2.mb-4 un producto se define como “todo aquello que se puede ofrecer en el mercado para su atención, adquisición, consumo, que satisface un deseo o una necesidad”.
             i.fas.fa-quote-right
       .col-lg-6.mb-4
-        p.mb-4 Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, es producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el #[i marketing mix], centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
+        p.mb-4 Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, el producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el #[i marketing mix], centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
         p.mb-0 El producto es un conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades. El consumidor está en un constante aprendizaje, porque “compran algo más que un producto”, lo que compran es un conjunto de deseos, expectativas, ideales, entre otras cosas que se hacen tangibles con su adquisición.
       .col-lg-5.mb-4
         img(src='@/assets/curso/tema2/img02.png')(data-aos="fade-left")
@@ -83,7 +83,7 @@
           .tarjeta.color-yellow-light.p-3(x="33%" y="78%")
             p Facilita la identificación del producto y que asociado a otro atributo, permite su recuerdo.
           .tarjeta.color-yellow-light.p-3(x="74%" y="15%")
-            p Conjunto de valores agregados a la compra del producto
+            p Conjunto de valores agregados a la compra del producto.
     
     p.mb-4 El departamento de #[i marketing] debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.
     p.mb-4 Los consumidores se basan en diversas características o diferenciadores para adquirir el producto. A continuación, se enlistan algunos atributos en los que se basan los consumidores para evaluar los productos o servicios, de acuerdo a Mullins (2007):
@@ -213,7 +213,7 @@
             i.fas.fa-check-circle
             | Servicios: los servicios asociados al producto, hacen parte del acompañamiento o garantías que la empresa pone al servicio del cliente.
       .tarjeta.color-red-light.p-3(x="13%" y="79%")
-        p #[strong Peso]: se refiere a las unidades como miligramos, gramo, kilogramo, etc contenido en el envase. 
+        p #[strong Peso]: se refiere a las unidades como miligramos, gramo, kilogramo, etc., contenido en el envase. 
       .tarjeta.color-red-light.p-3(x="37%" y="79%")
         p #[strong Densidad]: la densidad en un producto es la relación entre el peso, las dimensiones, el tamaño y el espacio que ocupa un producto en la estantería. En ocasiones, un cliente no compra un producto, porque ocupa demasiado espacio, pese a que el producto es liviano.
       .tarjeta.color-red-light.p-3(x="60%" y="79%")
@@ -333,13 +333,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img22.png')})`}"
           )
           .bloque-texto-g__texto.p-5(data-aos="fade-left")
-            p Un portafolio de productos, también denominado mezcla de productos, consta de todas las líneas de productos que un vendedor específico ofrece a un cliente o un conjunto de clientes. Un Portafolio de productos bien estructurado, le ayuda a la empresa a trazar su estrategia comercial.    
+            p Un portafolio de productos, también denominado mezcla de productos, consta de todas las líneas de productos que un vendedor específico ofrece a un cliente o un conjunto de clientes. Un portafolio de productos bien estructurado, le ayuda a la empresa a trazar su estrategia comercial.    
 
     separador  
     #t_2_10.titulo-segundo(data-aos="fade-right")
       .h3 2.10 Ciclo de vida
     
-    p.mb-4 La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[i Harvard Bussines Review]. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
+    p.mb-4 La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[i Harvard Bussines Review]. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, crecimiento, madurez y declive o decadencia. 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
         p En el siguiente recurso se muestra gráficamente el ciclo de vida de un producto:

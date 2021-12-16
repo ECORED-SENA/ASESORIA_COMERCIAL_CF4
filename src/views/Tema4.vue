@@ -56,7 +56,7 @@
                 th Accesible
                 td Hace referencia al grado de contacto con el proveedor en el período de disponibilidad.
               tr
-                th Cortes
+                th Cortés
                 td Es el comportamiento cortés y profesional del proveedor en la prestación del servicio.
               tr
                 th Ágil
